@@ -21,19 +21,21 @@ MindMosaic is a dynamic blog platform built with **HTML, CSS, JavaScript, PHP, a
 ---
 
 ## 📌 Installation & Setup
-### 🔹 1. Clone the Repository
+
+### 🔹 Option 1: Using XAMPP (Manual Setup)
+#### 1. Clone the Repository
 ```sh
 git clone https://github.com/akshatkmistry/MindMosaic.git
 cd MindMosaic
 ```
 
-### 🔹 2. Setup Database
+#### 2. Setup Database
 1. Open **phpMyAdmin** in your browser (`http://localhost/phpmyadmin/`)
 2. Create a new database named `mindmosaic`
 3. Import the `blog.sql` file (provided in the repo)
 
-### 🔹 3. Configure Database Connection
-1. Open `constants.php` in `config` folder.
+#### 3. Configure Database Connection
+1. Open `config.php`
 2. Update the database credentials if needed:
 ```php
 $servername = "localhost";
@@ -42,12 +44,33 @@ $password = "";
 $database = "mindmosaic";
 ```
 
-### 🔹 4. Run the Project
+#### 4. Run the Project
 1. Start **XAMPP** and enable `Apache` & `MySQL`
 2. Open your browser and visit:  
    **`http://localhost/MindMosaic`**
 
 ---
+
+### 🔹 Option 2: Using Docker (Recommended)
+#### 1. Install Docker & Docker Compose
+- Download and install [Docker](https://www.docker.com/get-started)
+
+#### 2. Clone the Repository
+```sh
+git clone https://github.com/akshatkmistry/MindMosaic.git
+cd MindMosaic
+```
+
+#### 3. Run the Project with Docker
+```sh
+docker-compose up --build
+```
+
+#### 4. Open the Website
+Visit **`http://localhost:8000`** in your browser.
+
+---
+
 
 ## 🖼️ Screenshots
 ### 🔹 Homepage
