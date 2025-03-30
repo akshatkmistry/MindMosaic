@@ -85,7 +85,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 📧 Contact
 For any queries, reach out via **GitHub Issues** or email at:  
-✉️ **akshatkmistry007@gmail.com **  
+✉️ **akshatkmistry007@gmail.com**  
 
 Happy Coding! 🎉
 
