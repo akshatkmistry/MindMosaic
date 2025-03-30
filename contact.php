@@ -13,16 +13,16 @@ include 'partials/header.php'
                 <th>Aryika Patni</th>
             </tr>
             <tr>
-                <td>- <a href="tel:+917359011370">+91 7359011370</a></td>
-                <td>- <a href="tel:+919313894476">+91 9313894476</a></td>
+                <td>- <a href="tel:+917359011370">+91 XXXXXXXXX0</a></td>
+                <td>- <a href="tel:+919313894476">+91 XXXXXXXXX6</a></td>
             </tr>
             <tr>
-                <td>- <a href="mailto:akshatkmistry8@gmail.com">akshatkmistry8@gmail.com</a></td>
-                <td>- <a href="mailto:patniaryika@gmail.com">patniaryika@gmail.com</a></td>
+                <td>- <a href="mailto:akshatkmistry8@gmail.com">abcdxyz@gmail.com</a></td>
+                <td>- <a href="mailto:patniaryika@gmail.com">abcdxyz@gmail.com</a></td>
             </tr>
             <tr>
-                <td>- Vapi, Gujarat</td>
-                <td>- Vadodara, Gujarat</td>
+                <td>- Gujarat</td>
+                <td>- Gujarat</td>
             </tr>
         </table>
     </div>
