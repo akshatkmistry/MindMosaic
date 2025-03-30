@@ -51,7 +51,7 @@ $database = "mindmosaic";
 
 ## 🖼️ Screenshots
 ### 🔹 Homepage
-<img src="assets/index.png" alt="Homepage" width="600px">
+![Homepage](assets/index.png)
 
 ### 🔹 Blog Post Page
 ![Blog Post](assets/blog.png)
